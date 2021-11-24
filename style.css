@@ -1,0 +1,24 @@
+body{
+	background: url('https://www.cobosocial.com/wp-content/uploads/2021/03/Cat-Nyan-Gif.-Courtesy-of-Chris-Torres.gif');
+	margin: 0;
+    padding: 0; 
+    background-size: cover;
+    font-family: 'arial';
+    color: whitesmoke;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+div{
+	min-height: 100vh;
+	background: darkblue;
+	display: flex;
+    display: flex;
+    padding: 2px 2px 2px 2px;
+}
+
+div:hover{
+	background: none;
+}
